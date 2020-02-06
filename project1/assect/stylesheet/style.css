@@ -211,7 +211,7 @@ textarea {
   background-color: teal;
   color: white;
   border: 0;
-  align-items: flex-start;
+  /* align-items: flex-start; */
 }
 
 /* section-col-5  */
@@ -299,7 +299,7 @@ font-size: 18px;
                    media queries
 ===================================================          */
 
-@media all and (min-width: 360px) and (max-width: 767px) {
+@media all and (min-width: 320px) and (max-width: 768px) {
 
   .nab_links a {
   display: none;
